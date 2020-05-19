@@ -1,0 +1,4 @@
+User: jen
+File changed: /home/jennifer/Documents/Assignment2/intranet/offers/test.txt
+Date and Time: 2020-04-25 10:10:51
+----------------------------------------
